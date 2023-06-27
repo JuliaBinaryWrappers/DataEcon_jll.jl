@@ -1,143 +1,143 @@
 [[DataEcon]]
 arch = "aarch64"
-git-tree-sha1 = "e9aeebfd81ece35506b607387040e350d3dbb046"
+git-tree-sha1 = "2337d3174cb1d3ea4ebbc09d1199e6dc2c05e909"
 os = "macos"
 
     [[DataEcon.download]]
-    sha256 = "7f4a52dad3189b66df462b01ff7c561d9238e6cb13f42c07a14c153409705294"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "7b6f38c36d7bc8146f7ce83c02dea461964bb85aef135df1ce99e39f9f33bd6c"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.aarch64-apple-darwin.tar.gz"
 [[DataEcon]]
 arch = "aarch64"
-git-tree-sha1 = "61d66e83274776b8952f08405688de5ca5d7f890"
+git-tree-sha1 = "9b03bb09f93aa11568d323f30353528ab9ef09c7"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "afa616aa9708efad5f17e864cd6d261b3dc23fcecc968d238d8c5a5bec0a91ab"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6e17d54fec2d4a50d63e8d06bd94e5420eb5996a4e2964926ed4ca71dda3c516"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.aarch64-linux-gnu.tar.gz"
 [[DataEcon]]
 arch = "aarch64"
-git-tree-sha1 = "5b0c0c40355b778342e1967b6c2e6d57a425363f"
+git-tree-sha1 = "aed16ea8c94185d46abf6eb845ffbef4445db1ca"
 libc = "musl"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "688b5c8af1c7d99e06537f624363576757d7fc44a069a1f0265799311c65e313"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "104c8507346932e4eb4cf13bde941c3fa1250324111d41963106d92a4f25a3c3"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.aarch64-linux-musl.tar.gz"
 [[DataEcon]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fcd99a034eea4ed4bdd538201418ec862be5b8d8"
+git-tree-sha1 = "72a11d724c59460b95ca16e10a62670aad765d23"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "f887069beb5f0d5ad8256f517af442d5cd994b56ca8653fce620ee0fcb56369a"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "2f53bcbe2230a6be29eb512245c07d66529fe4a851d3aced750e83300aa32bbc"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
 [[DataEcon]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "33c0300c90b4c33566c0f48138f06726ce4978ff"
+git-tree-sha1 = "8e93d5b9f0a5c1abee9e7586d849bb279330124e"
 libc = "musl"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "5ced8cd692315745fc509762fd67dd87fa3d93ea90a77a5094bfa4e5e1b4ce4d"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "407401490868a326dd7758d887828462166a200eeb65ee9cbb17ae3dcc83b836"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.armv6l-linux-musleabihf.tar.gz"
 [[DataEcon]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5addfd7734c7117a5b0100b50833fb2750e9247d"
+git-tree-sha1 = "0cbaf8d26c70098fc1f23a9171981282ad3a1654"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "f0538ed5d2c1482508d355de00591a82b82bea2f39c6ed7ca7980e665d99ba11"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "8a867cfc6b58175c17be5782b7e0dce0f9e587a36b03f247f05232533c5a4018"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
 [[DataEcon]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d8056672ca5e29b7a7636a09e7586460d16f7c3"
+git-tree-sha1 = "4c8ced2b53646b25adf893e2e8d4353034b2a60f"
 libc = "musl"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "c997543dd86843642e2c952b58aaf9a3917c37ebd6bef4e1784f0d154844eceb"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4ab0f70da1eb5344954ef555a5e440f0b0cc703c04c1a7b1b9d335b4145ef5a9"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.armv7l-linux-musleabihf.tar.gz"
 [[DataEcon]]
 arch = "i686"
-git-tree-sha1 = "f5edec50ac6dd3e298def9eb400d15ae88272aa1"
+git-tree-sha1 = "ccb5076dbab082e111c7c4cab495d09a7c7357d1"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "d753603b0d68f9a47577bd1828b37048c6aee83daa437239bc2d0cfa45c8382f"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "915a9ae0d21cbdf3ed32886033b827e97311d8729fc02b5d1fef224d2b733b51"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.i686-linux-gnu.tar.gz"
 [[DataEcon]]
 arch = "i686"
-git-tree-sha1 = "129e7581b8ba028826077c764638d1babcd51e26"
+git-tree-sha1 = "1c4cf5f717b0255ad052a437f32928b7fe5672aa"
 libc = "musl"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "fa5480d278378301809a8295bd5eda77fb5daef4a8ecea79a01ed85fd3826e72"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.i686-linux-musl.tar.gz"
+    sha256 = "c80ab8ec3878e8b2ebb3637f820cb658b751dc5b1c887a96c48f246c1ea8f457"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.i686-linux-musl.tar.gz"
 [[DataEcon]]
 arch = "i686"
-git-tree-sha1 = "0d2acebe9b21bd08c1b04a00173217f01d4982fb"
+git-tree-sha1 = "28f29b0ca49e73b7322ed5152b1be057572057fa"
 os = "windows"
 
     [[DataEcon.download]]
-    sha256 = "1297b7ea4dfb4ea5d53ec0b3bedccb1984c93e3e6e607130e314ebfbda500cc3"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "3133d4cecdbfa00ee630513ddb15a02aa54f3a01a6d6b0081ba7524cdb287d03"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.i686-w64-mingw32.tar.gz"
 [[DataEcon]]
 arch = "powerpc64le"
-git-tree-sha1 = "a3611811f6073e87371b8d953ea619454723902f"
+git-tree-sha1 = "9ea1fd2dd30a3b27caba7a1052cdf1a78d4a61d2"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "3521818162493f74eb40c9cc2a87de16396a900c3634661c1ff67fd0dab0678d"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2edbef0f2a4e2bb146a6d8642d302c611da0d14c161bbb711dd7e01c5a8031c9"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.powerpc64le-linux-gnu.tar.gz"
 [[DataEcon]]
 arch = "x86_64"
-git-tree-sha1 = "33d0c66658ff2be9034dc991f43971e11b05fc86"
+git-tree-sha1 = "6d757ffed3d499ce0f87571afcba94814a039654"
 os = "macos"
 
     [[DataEcon.download]]
-    sha256 = "9402c241ab78a99ec0a00c3f5ccfbd64c560dfd0987c3a5b4346701b717d6e36"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "6da7fa2e999b7850f540d3e20c4de4548ad339744b4c4dfb8a1504dac8896a0f"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[DataEcon]]
 arch = "x86_64"
-git-tree-sha1 = "90dbd35ce7b437b1cff0cfff5d9c9f7690c8fa1f"
+git-tree-sha1 = "7d98ece9e73248805f8b879acc9173baaba57702"
 libc = "glibc"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "70be26a41504758a12b5b180ca4cfe040450efc9fb63aea37f6259b4a2570cae"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "bfcde9e6ca9f22adbd935e89896405bee08eb902f8a7c15e6671b4897f236faf"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.x86_64-linux-gnu.tar.gz"
 [[DataEcon]]
 arch = "x86_64"
-git-tree-sha1 = "7dc1dd95aac1a4af33d66baedb15ad90e423ee2b"
+git-tree-sha1 = "65e5072a17ecc67cbbdfeaf50b59aac3c2ef7645"
 libc = "musl"
 os = "linux"
 
     [[DataEcon.download]]
-    sha256 = "874b5e1012921658fbb8b3505e772ca60dcb55563c871d07a21f145d08a9e1ed"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "a7a6ab708318c91f5401552f918f8754d44666086304dca3d6c8e9433c8b44a0"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.x86_64-linux-musl.tar.gz"
 [[DataEcon]]
 arch = "x86_64"
-git-tree-sha1 = "09f193e493c6ffd69beacf514e580ef95b433329"
+git-tree-sha1 = "78e581c183db3a563c0e2257fec3df1078623ff4"
 os = "freebsd"
 
     [[DataEcon.download]]
-    sha256 = "cbacc188c33e1869bbcc7d64500bd585cabdf1cbf69b566b1ba43f2ec383255f"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "97baaa6d02707cde7cb781cb1a80f48704fe9c163d32f62acbe6ec69b0156420"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.x86_64-unknown-freebsd.tar.gz"
 [[DataEcon]]
 arch = "x86_64"
-git-tree-sha1 = "655510bc3b7278cf833d35de6692b63a101011ad"
+git-tree-sha1 = "918569274c575b67a5d544939876980a95a4988a"
 os = "windows"
 
     [[DataEcon.download]]
-    sha256 = "a3d45b97ca513b2b49fd529f97e25534f1a71c5d0551b010f254b582e1bfa69e"
-    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.1.0+0/DataEcon.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "72680b906d19547b1d22fd0adeb565411e5af534de505f9895887267ddcb215f"
+    url = "https://github.com/JuliaBinaryWrappers/DataEcon_jll.jl/releases/download/DataEcon-v0.2.0+0/DataEcon.v0.2.0.x86_64-w64-mingw32.tar.gz"
